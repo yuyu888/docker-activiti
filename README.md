@@ -28,3 +28,6 @@ https://github.com/eternnoir/activiti
 
     username: kermit
     password: kermit
+
+activiti 学习
+https://tomoya92.github.io/2019/04/24/activiti-spring-boot/
